@@ -6,3 +6,5 @@ numpy
 pyrebase4
 firebase-admin
 python-dotenv
+google-genai
+firebase-admin
