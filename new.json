@@ -1,0 +1,9 @@
+{
+  "sensorReadings": {
+    "demo_device": {
+      "Land 1": { "humidity": 75.2, "ph": 6.8, "ts": 1710600000000 },
+      "Land 2": { "humidity": 80.1, "ph": 6.9, "ts": 1710600060000 },
+      "Land 3": { "humidity": 82.3, "ph": 6.4, "ts": 1710600120000 }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+streamlit>=1.24.0
+torch>=2.0.0
+timm>=0.9.0
+pillow
+numpy
+pyrebase4
+firebase-admin
+python-dotenv
